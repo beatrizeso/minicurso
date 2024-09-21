@@ -1,0 +1,39 @@
+body {
+    font-family: "MONTSERRAT", sans-serif;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    flex-direction:row;
+    padding: 0 50px;
+    justify-content: space-between
+}
+
+.txt {
+    display: flex;
+    gap: 40px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    flex-direction:column;
+    margin: 50px;
+    justify-content: center;
+    color: aquamarine;
+}
+.bot {
+    color: aquamarine;
+    text-decoration: none;
+}
+#logo {
+    width: 10vh
+}
+
+.main {
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-around;
+}
